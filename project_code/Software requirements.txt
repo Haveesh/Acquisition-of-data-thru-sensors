@@ -1,0 +1,10 @@
+Install the following softwares to run the code:
+
+MySQL Workbench 6.3
+JetBrains PyCharm or any other development environment
+Python libraries required to run the script
+1. PyHook
+2. My_SQL python
+3. openCV
+4.numpy
+5.pykinect
